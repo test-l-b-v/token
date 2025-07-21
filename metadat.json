@@ -1,0 +1,14 @@
+{
+    "name":        "TestCoin",
+    "symbol":      "TC",
+    "description": "A funy meme token on Solana Devnet",
+    "image":       "https://…/logo.png",
+    "extensions": {
+    "website": "",
+    "twitter": "",
+    "telegram": ""
+  }
+    "properties": {
+      "files": [{ "uri": "https://…/logo.png", "type": "image/png" }]
+    }
+  }
