@@ -2,13 +2,13 @@
     "name":        "TestCoin",
     "symbol":      "TC",
     "description": "A funy meme token on Solana Devnet",
-    "image":       "https://…/logo.png",
+    "image":       "https://github.com/test-l-b-v/token/blob/main/logo.png",
     "extensions": {
     "website": "",
     "twitter": "",
     "telegram": ""
   }
     "properties": {
-      "files": [{ "uri": "https://…/logo.png", "type": "image/png" }]
+      "files": [{ "uri": "https://github.com/test-l-b-v/token/blob/main/logo.png", "type": "image/png" }]
     }
   }
